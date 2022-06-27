@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Praktikum.dir/main.c.o CMakeFiles/Praktikum.dir/sub.c.o CMakeFiles/Praktikum.dir/KeyValue.c.o  -o Praktikum 
